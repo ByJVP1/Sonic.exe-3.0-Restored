@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF-Encore-BFezz">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<!-- Por Bfezz y Nickobelit -->
+	<SubTexture name="GF IdleCabraXD0000" x="5" y="5" width="975" height="1119" />
+	<SubTexture name="GF IdleCabraXD0001" x="5" y="5" width="975" height="1119" />
+	<SubTexture name="GF IdleCabraXD0002" x="5" y="5" width="975" height="1119" />
+	<SubTexture name="GF IdleCabraXD0003" x="990" y="5" width="975" height="1119" />
+	<SubTexture name="GF IdleCabraXD0004" x="990" y="5" width="975" height="1119" />
+	<SubTexture name="GF IdleCabraXD0005" x="990" y="5" width="975" height="1119" />
+	<SubTexture name="GF IdleCabraXD0006" x="1975" y="5" width="975" height="1119" />
+	<SubTexture name="GF IdleCabraXD0007" x="1975" y="5" width="975" height="1119" />
+	<SubTexture name="GF IdleCabraXD0008" x="1975" y="5" width="975" height="1119" />
+	<SubTexture name="GF IdleCabraXD0009" x="5" y="1134" width="975" height="1119" />
+	<SubTexture name="GF IdleCabraXD00010" x="5" y="1134" width="975" height="1119" />
+	<SubTexture name="GF IdleCabraXD00011" x="5" y="1134" width="975" height="1119" />
+	<SubTexture name="GF IdleCabraXD00012" x="2960" y="1134" width="975" height="1119" />
+	<SubTexture name="GF IdleCabraXD00013" x="2960" y="1134" width="975" height="1119" />
+	<SubTexture name="GF IdleCabraXD00014" x="2960" y="1134" width="975" height="1119" />
+	<SubTexture name="GF BfezzFeliz0000" x="990" y="1134" width="975" height="1119"/>
+	<SubTexture name="GF BfezzFeliz0001" x="990" y="1134" width="975" height="1119"/>
+	<SubTexture name="GF BfezzFeliz0002" x="1975" y="1134" width="975" height="1119"/>
+	<SubTexture name="GF BfezzFeliz0003" x="1975" y="1134" width="975" height="1119"/>
+	<SubTexture name="GF BfezzFeliz0004" x="2960" y="5" width="975" height="1119"/>
+	<SubTexture name="GF BfezzFeliz0005" x="2960" y="5" width="975" height="1119"/>
+	<SubTexture name="GF BfezzFeliz0006" x="2960" y="5" width="975" height="1119"/>
+	<SubTexture name="GF BfezzFeliz0007" x="2960" y="5" width="975" height="1119"/>
+	<SubTexture name="GF BfezzFeliz0008" x="2960" y="5" width="975" height="1119"/>
+	<SubTexture name="GF BfezzFeliz0009" x="2960" y="5" width="975" height="1119"/>
+	<SubTexture name="GF BfezzFeliz0010" x="2960" y="5" width="975" height="1119"/>
+	<SubTexture name="GF BfezzFeliz0011" x="2960" y="5" width="975" height="1119"/>
+	<SubTexture name="GF BfezzFeliz0012" x="2960" y="5" width="975" height="1119"/>
+	<SubTexture name="GF BfezzFeliz0013" x="2960" y="5" width="975" height="1119"/>
+</TextureAtlas>
