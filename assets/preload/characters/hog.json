@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "HogIdle"
+		},
+		{
+			"offsets": [
+				142,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "HogLeft"
+		},
+		{
+			"offsets": [
+				81,
+				-64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "HogDown"
+		},
+		{
+			"offsets": [
+				50,
+				102
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "HogUp"
+		},
+		{
+			"offsets": [
+				34,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "HogRight"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				325
+			],
+			"anim": "atack",
+			"fps": 24,
+			"name": "Getfucked",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				325
+			],
+			"anim": "Getfucked",
+			"fps": 24,
+			"name": "Getfucked",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hog",
+	"position": [
+		80,
+		360
+	],
+	"healthicon": "hog",
+	"flip_x": false,
+	"healthbar_colors": [
+		43,
+		38,
+		160
+	],
+	"camera_position": [
+		-530,
+		-180
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}
