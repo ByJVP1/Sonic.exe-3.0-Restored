@@ -1,3 +1,8 @@
-Add your custom event's .txt file and .lua file here
+Si encontraste este secreto....eres un insano
+(Y me lo dices en comentarios xd)
+--Nickobelit
 
-The .txt file is the event's description on Chart Editor
+Mmm sería..
+No importa el tamaño del pajaro si no como se lo avienta a la puerca
+
+-Red Angry Birds(Perez-Sen 🧐)
